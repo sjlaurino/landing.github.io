@@ -1,4 +1,29 @@
 .tools{
-  
+  width: 75px;
+  height: 70px;
+}
+.row-1{
+  height: 100px;
+}
+.row-2{
+  height: 100px;
+}
+.row-3{
+  height:100px;
+}
+.row-4{
+  height: 100px;
+}
+.row-5{
+  height: 400px;
+}
 
+.table{
+  width: 125px; 
+}
+.projects{
+  width:115px;
+}
+.languages{
+  width:115px;
 }
