@@ -1,6 +1,16 @@
+.container-fluid{
+  background-image: url("landing-images/background.jpg");
+  background-size: cover;
+  height: 800px;
+}
 .tools{
   width: 75px;
   height: 70px;
+}
+.tools:hover{
+  transition: .2s;
+  transform: scale(1.5);
+  z-index:100;
 }
 .row-1{
   height: 100px;
@@ -26,9 +36,27 @@
 .projects{
   width:115px;
 }
+.projects:hover{
+  transition: .2s;
+  transform: scale(1.5);
+  z-index:100;
+}
 .languages{
   width:115px;
 }
+.languages:hover{
+  transition: .2s;
+  transform: scale(1.5);
+  z-index:100;
+}
 .pioneer{
   z-index: 100;
+}
+.pioneer:hover{
+  transition: .2s;
+  transform: scale(1.25);
+  z-index:125;
+}
+.pioneer-col{
+  height: 500px;
 }
