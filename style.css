@@ -14,16 +14,21 @@
 .row-4{
   height: 100px;
 }
-.row-5{
-  height: 700px;
+.row-pioneer-table{
+  height: 100px;
 }
-
 .table{
   width: 125px; 
+}
+.table2{
+  width: 200px;
 }
 .projects{
   width:115px;
 }
 .languages{
   width:115px;
+}
+.pioneer{
+  z-index: 100;
 }
