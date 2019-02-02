@@ -3,9 +3,30 @@
   background-size: cover;
   height: 800px;
 }
+.container2{
+  background-image: url(landing-images/background.jpg);
+  background-size: cover;
+  height: 300px;
+}
+.container3{
+  background-image: url(landing-images/background.jpg);
+  background-size: cover;
+  height: 300px;
+}
+.container4{
+  background-image: url(landing-images/background.jpg);
+  background-size: cover;
+  height: 300px;
+}
+.container4{
+  background-image: url(landing-images/background.jpg);
+  background-size: cover;
+  height: 300px;
+}
 .tools{
   width: 75px;
   height: 70px;
+  z-index: 100;
 }
 .tools:hover{
   transition: .2s;
@@ -59,4 +80,20 @@
 }
 .pioneer-col{
   height: 500px;
+}
+#experience{
+  color: white;
+  text-shadow: 1px 1px 0 black;
+}
+#about-me{
+  color: white;
+  text-shadow: 1px 1px 0 black;
+}
+#projects{
+  color: white;
+  text-shadow: 1px 1px 0 black;
+}
+#languages{
+  color: white;
+  text-shadow: 1px 1px 0 black;
 }
