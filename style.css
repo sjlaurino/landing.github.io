@@ -1,7 +1,7 @@
 .container1{
   background-image: url("landing-images/paneling.jpg");
   background-size: cover;
-  height: 800px;
+  height: 500px;
 }
 .container2{
   background-image: url(landing-images/background.jpg);
@@ -24,8 +24,8 @@
   height: 300px;
 }
 .tools{
-  width: 75px;
-  height: 70px;
+  width: 69px;
+  height: 150px;
   z-index: 100;
 }
 .tools:hover{
@@ -72,14 +72,16 @@
 }
 .pioneer{
   z-index: 100;
+  height: 100px;
+  width: 46px;
 }
 .pioneer:hover{
   transition: .2s;
-  transform: scale(1.25);
+  transform: scale(1.5);
   z-index:125;
 }
 .pioneer-col{
-  height: 500px;
+  height: 100px;
 }
 #experience{
   color: white;
@@ -96,4 +98,9 @@
 #languages{
   color: white;
   text-shadow: 1px 1px 0 black;
+}
+.name{
+  color: black;
+  font-family: 'bangers', cursive;
+  font-size: 6.5rem;
 }
