@@ -80,8 +80,9 @@
 }
 .pioneer:hover{
   transition: .2s;
-  transform: scale(1.5);
+  transform: scale(1.75);
   z-index:125;
+  opacity: .75;
 }
 .pioneer-col{
   height: 100px;
